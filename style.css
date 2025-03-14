@@ -39,6 +39,10 @@ img {
   border-radius: 10px;
 }
 
+.hero-img {
+  width: 300px;
+}
+
 ul,
 ol {
   background: #fff3e0;
